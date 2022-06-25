@@ -2,8 +2,8 @@
 
 &nbsp;
 # Goals/Outcomes ✨
-- To test knowledge of consuming APIs and handling responses
-- To test the state management using redux-toolkit
+- To test knowledge of consuming APIs and handling responses using `asyncThunk`
+- To test the state management using `redux-toolkit`
 - Loading state and knowing where and how to make multiple API calls efficiently
 
 &nbsp;
@@ -31,6 +31,11 @@
 &nbsp;
 # What's Already Been Done 🏁
 - UI/UX for all elements, including previews (mobile responsive)
+
+&nbsp;
+# What's Good To Have 🏁
+- use `eslint`
+- Improvement in UI
 
 &nbsp;
 # Screenshots 🌄
